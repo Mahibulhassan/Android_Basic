@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/headingid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Which dring you want to buy???"
+        android:textSize="20sp"
+        android:padding="5dp"
+        />
+
+    <CheckBox
+        android:id="@+id/milkid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Milk"
+        android:textSize="20sp"
+        ></CheckBox>
+
+    <CheckBox
+        android:id="@+id/waterid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Water"
+        android:textSize="20sp"></CheckBox>
+
+    <CheckBox
+        android:id="@+id/drinkid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Soft Drink"
+        android:textSize="20sp"
+        ></CheckBox>
+
+    <CheckBox
+        android:id="@+id/upid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7up"
+        android:textSize="20sp"
+        ></CheckBox>
+
+    <Button
+        android:id="@+id/buttonid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Buy "
+        android:textSize="20sp"
+        ></Button>
+
+    <TextView
+        android:id="@+id/showid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        ></TextView>
+
+
+</LinearLayout>
