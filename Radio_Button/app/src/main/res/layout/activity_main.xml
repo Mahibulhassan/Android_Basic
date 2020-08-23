@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RadioGroup
+        android:id="@+id/radioid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+         <RadioButton
+             android:id="@+id/maleid"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textSize="20sp"
+             android:text="MALE"
+             ></RadioButton>
+
+        <RadioButton
+            android:id="@+id/femaleid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="FEMALE"
+            android:layout_marginTop="20dp"
+            ></RadioButton>
+
+        <RadioButton
+            android:id="@+id/otherid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="OTHERS"
+            android:layout_marginTop="20sp"
+            ></RadioButton>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/selectid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SELECT"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+
+        ></Button>
+
+    <TextView
+        android:id="@+id/textid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+
+        ></TextView>
+
+</LinearLayout>
