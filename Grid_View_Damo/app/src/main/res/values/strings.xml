@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grid_View_Damo</string>
+
+    <string-array name="country_name">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>Saudi</item>
+        <item>Bahrain</item>
+    </string-array>
+
+</resources>
