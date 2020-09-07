@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Auto_Complete_Text_View</string>
+<string-array name="country_name">
+    <item>Afghanistan</item>
+    <item>Albania</item>
+    <item>Australia</item>
+    <item>Azerbaijan</item>
+    <item>Bangladesh</item>
+    <item>Bahrain</item>
+    <item>Bolivia</item>
+    <item>Cambodia</item>
+    <item>Canada</item>
+    <item>Chile</item>
+    <item>Egypt</item>
+    <item>France</item>
+    <item>Greece</item>
+    <item>Guyana</item>
+    <item>Hungary</item>
+    <item>Hawaii*</item>
+    <item>India</item>
+    <item>Italy</item>
+    <item>Jamaica</item>
+    <item>Japan</item>
+    <item>Korea</item>
+    <item>Zimbabwe</item>
+    <item>Yemen</item>
+    <item>United Arab Emirates</item>
+    <item>South Africa</item>
+  <item>
+      Argentina
+    </item>
+
+
+</string-array>
+
+
+</resources>
