@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#7FBC3A"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".feedBack_Activity">
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/idittext1"
+        android:hint="Enter Your Name"
+        ></EditText>
+
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/idittext2"
+        android:hint="Give Your Feed Back"
+        ></EditText>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send"
+            android:id="@+id/sendid"
+            android:textSize="20sp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="20dp"
+            ></Button>
+
+        <Button
+            android:id="@+id/cleanid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clean"
+            android:textSize="20sp"
+            ></Button>
+
+    </LinearLayout>
+</LinearLayout>

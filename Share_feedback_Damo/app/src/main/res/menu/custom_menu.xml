@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="About Us"
+        android:id="@+id/settingid"
+        android:icon="@drawable/settingicon_foreground"
+        ></item>
+    <item
+        android:title="Share"
+        android:id="@+id/shareid"
+        android:icon="@drawable/share_foreground"
+        ></item>
+
+    <item
+        android:title="Feedback"
+        android:id="@+id/feedbackid"
+        android:icon="@drawable/feedback_foreground"
+        ></item>
+
+
+
+</menu>
