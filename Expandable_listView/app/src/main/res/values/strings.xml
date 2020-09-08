@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Expandable_listView</string>
+    <string-array name="number">
+
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>f</item>
+        <item>g</item>
+        <item>a</item>
+        <item>d</item>
+        <item>d</item>
+        <item>f</item>
+        <item>h</item>
+        <item>y</item>
+        <item>q</item>
+        <item>w</item>
+        <item>e</item>
+        <item>r</item>
+        <item>t</item>
+        <item>y</item>
+        <item>u</item>
+        <item>k</item>
+        <item>k</item>
+        <item>l</item>
+        <item>f</item>
+        <item>g</item>
+        <item>j</item>
+        <item>l</item>
+        <item>d</item>
+        <item>j</item>
+        <item>w</item>
+        <item>n</item>
+        <item>m</item>
+
+    </string-array>
+
+    <string-array name="spelling">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Eleven</item>
+        <item>Twelve</item>
+        <item>Thirteen</item>
+        <item>Fourteen</item>
+        <item>Fiveteen</item>
+        <item>Sixteen</item>
+        <item>Seventeen</item>
+        <item>Eighteen</item>
+        <item>Nineteen</item>
+        <item>Twenty</item>
+        <item>Twenty One</item>
+        <item>Twenty Two</item>
+        <item>Twenty Three</item>
+        <item>Twenty Four</item>
+        <item>Twenty Five</item>
+        <item>Twenty Six</item>
+        <item>Twenty Seven</item>
+        <item>Twenty Eight</item>
+        <item>Twenty Nine</item>
+        <item>Thirty</item>
+    </string-array>
+</resources>
