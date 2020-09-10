@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fragment_Damo</string>
+
+    <string-array name="friendsname">
+
+        <item>Mahibul</item>
+        <item>Hassan</item>
+        <item>Emon</item>
+        <item>Rana</item>
+        <item>Rimon</item>
+        <item>Abir</item>
+        <item>Peyal</item>
+        <item>Shamim</item>
+        <item>Hridoy</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mahibul">Hey Man i am Mahibul Hassan Emon</string>
+    <string name="hasan">Hey man i am hasan </string>
+</resources>
