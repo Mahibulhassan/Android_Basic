@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#5DA4C5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Signupactivity">
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff"
+        android:id="@+id/signupnameedittextid"
+        >
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff"
+        android:id="@+id/signupemailedittextid"
+        ></EditText>
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff"
+        android:id="@+id/signuppasswordedittextid"
+        >
+    </EditText>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:text="Sign Up"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+        android:id="@+id/signupbuttonid"
+        ></Button>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signintextid"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Your are Already registered ? Sign in"
+        style="@style/Base.TextAppearance.AppCompat.Medium"
+        android:textColor="#ffffff"></TextView>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        android:visibility="gone"
+        android:id="@+id/progressba2ndrid"></ProgressBar>
+
+
+
+</LinearLayout>

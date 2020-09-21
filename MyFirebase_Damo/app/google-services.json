@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972458541034",
+    "firebase_url": "https://myfirebase-damo.firebaseio.com",
+    "project_id": "myfirebase-damo",
+    "storage_bucket": "myfirebase-damo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972458541034:android:bb446edfc608a9db2a3c93",
+        "android_client_info": {
+          "package_name": "com.example.myfirebase_damo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972458541034-j0r573penbmeo75q4vb4i8occr7l3c9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKrCT54Mb8lZa_UYnBIoebO1_Jkb7Amk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972458541034-j0r573penbmeo75q4vb4i8occr7l3c9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
